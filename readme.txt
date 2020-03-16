@@ -29,8 +29,8 @@ Steps to run this site on PC:
 Software Requirement:- WAMP Server 
 
 Installation Steps:-
-1.Download zip file and Unzip file on your PC.
-2.Put this file inside “c:/wamp/www/” 
+1.Download all the files and folder on your PC.
+2.Make a single folder named E-commerce containing all above files and folder and put this folder inside “c:/wamp/www/” 
 3.Database Configuration:
 4.Open phpmyadmin
 5.Create Database named “shop”.
